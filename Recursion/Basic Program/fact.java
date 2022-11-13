@@ -1,4 +1,4 @@
-// Write a Recursive Function program to print Factorial of a number entered by the UnsupportedOperationException
+// Write a Recursive Function program to print Factorial of a number entered by the User
 
 import java.util.*;
 public class Main
