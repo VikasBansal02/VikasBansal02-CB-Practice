@@ -1,4 +1,4 @@
-// Write a Recursive Function program to Subsequence of a String entered by the User
+// Write a Recursive Function program to Print Subsequence of a String entered by the User
 
 import java.util.*;
 public class Main
@@ -20,6 +20,6 @@ public class Main
 	    
 	    //Recursive call
 	    Print_Sub_Seq(ques.substring(1),ans);
-	    Print_Sub_Seq(ques.subtring(1),ans+ch);
+	    Print_Sub_Seq(ques.subtsring(1),ans+ch);
 	}
 }
