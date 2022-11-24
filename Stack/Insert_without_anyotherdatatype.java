@@ -1,5 +1,5 @@
 // Insert_Demo
-// Insert Element in the given Stack without using extra Memory or any datatype
+// Insert Element in the given Stack without using extra Memory or any Data Structure
 
 import java.util.*;
 public class Main
